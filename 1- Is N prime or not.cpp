@@ -1,3 +1,11 @@
+/*
+  180 Daraga Training
+  Session No : 1
+  Problem : IS it prime
+  By : Ahmed Gamal
+  On : 4/09/2022
+*/
+
 #include <iostream>
 
 using namespace std;
