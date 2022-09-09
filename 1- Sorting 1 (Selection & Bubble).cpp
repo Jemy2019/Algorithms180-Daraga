@@ -1,7 +1,7 @@
 /*
   180 Daraga Training
   Session No : 1
-  Session : Bubble & Insertion
+  Session : Bubble & Selection
   By : Ahmed Gamal
   On : 4/09/2022
 */
